@@ -1,2 +1,8 @@
-# portifolio-qa
-Portfólio de QA: casos de teste, relatórios de bug e automação
+# Portfólio de QA
+
+Olá! Estou aprendendo QA e JavaScript.
+
+## O que vai ter aqui
+- Casos de teste
+- Relatórios de bug
+- Automação de testes (em breve)
