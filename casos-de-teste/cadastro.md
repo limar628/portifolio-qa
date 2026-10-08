@@ -18,8 +18,8 @@ confirmar:E17654874*
 
 1 digitar nome campo vazio
  2 digitar email jose@gmail.com
-3 digitar senha 17654874
-4 confirmar 17654874
+3 digitar senha : senha@123
+4 confirmar senha: senha@123
 clicar em criar conta
 
 - **Resultado esperado:** A conta não é criada, aparece a mensagem "Nome é obrigatório" abaixo do campo nome e o usuário continua na tela de cadastro.
